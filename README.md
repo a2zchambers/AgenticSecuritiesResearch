@@ -54,9 +54,10 @@ Ensure your local Ollama server is running, then open a terminal and download yo
 # Start your local server if it isn't running automatically
 ollama serve
 
-# Pull your preferred model (example using llama3)
-ollama pull llama3
+# Pull your preferred model (example using muse-glimmer:30b-mlx) for mac
+ollama pull muse-glimmer:30b-mlx
 ```
+ollama pull muse-glimmer:30b for windows
 
 ### 3. Installation
 Clone the repository and install the project along with its required dependencies:
@@ -77,9 +78,12 @@ pip install -e .
 
 ### 4. Running the Application
 Launch the autonomous research system by running the entry point script:
-
 ```bash
-python run_app.py
+streamlit run app.py
+```
+or
+```bash
+python -m streamlit run app.py
 ```
 
 ---
