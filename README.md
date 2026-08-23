@@ -1,8 +1,7 @@
 # 🤖 Agentic Securities Research
 
-[![Python Version](https://badgen.net)](https://python.org)
-[![AI Engine](https://badgen.net)](https://ollama.com)
-[![License](https://badgen.net)](LICENSE)
+> [!NOTE]
+> **Python Version:** 3.9+ | **AI Engine:** Ollama (Local) | **License:** Apache 2.0
 
 
 An autonomous, multi-agent AI framework built to conduct localized security analysis, aggregate financial data, and backtest sector-specific algorithmic trading strategies. 
