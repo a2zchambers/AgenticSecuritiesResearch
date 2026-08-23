@@ -1,8 +1,8 @@
 # 🤖 Agentic Securities Research
 
-[![Python Version](https://shields.io)](https://python.org)
-[![AI Engine](https://shields.io)](https://ollama.com/)
-[![License](https://shields.io)](LICENSE)
+[![Python Version](https://img.shields.io)](https://python.org)
+[![AI Engine](https://img.shields.io)](https://ollama.com/)
+[![License](https://img.shields.io)](LICENSE)
 
 An autonomous, multi-agent AI framework built to conduct localized security analysis, aggregate financial data, and backtest sector-specific algorithmic trading strategies. 
 
