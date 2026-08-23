@@ -30,8 +30,6 @@ By executing entirely on **local Ollama models**, this project ensures complete 
  ┣ 📂 storage                 # DB schemas and local data handlers
  ┣ 📂 ui                      # Front-end dashboard and visualization assets
  ┣ 📜 app.py                  # Main backend server interface
- ┣ 📜 run_app.py              # Application entry point script
- ┣ 📜 setup.py                # Package metadata and installation script
  ┣ 📜 sp500_sectors.json      # Structured dictionary mapping market sectors
  ┣ 📜 trading_results.db      # Local SQLite database for model backtests
  ┣ 📜 requirements.txt        # Third-party package dependencies
