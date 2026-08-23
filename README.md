@@ -55,7 +55,7 @@ ollama serve
 # Pull your preferred model (example using muse-glimmer:30b-mlx) for mac
 ollama pull muse-glimmer:30b-mlx
 
-ollama pull muse-glimmer:30b for windows
+ollama pull muse-glimmer:30b # for windows
 ```
 ### 3. Installation
 Clone the repository and install the project along with its required dependencies:
