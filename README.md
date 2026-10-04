@@ -1,5 +1,7 @@
 # 🤖 Agentic Securities Research
 
+![Company Logo](company_logo.png)
+---
 > [!NOTE]
 > **Python Version:** 3.9+ | **AI Engine:** Ollama (Local) | **License:** Apache 2.0
 
