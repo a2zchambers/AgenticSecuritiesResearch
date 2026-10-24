@@ -8,7 +8,7 @@
 
 An autonomous, multi-agent AI framework built to conduct localized security analysis, aggregate financial data, and backtest sector-specific algorithmic trading strategies. 
 
-By executing entirely on **local Ollama models**, this project ensures complete data privacy—your financial research queries, API data, and database strategies never leave your hardware.
+By executing entirely on **local Ollama models**, this project ensures complete data privacy—your financial research queries, data, and strategies never leave your hardware.
 
 ---
 
