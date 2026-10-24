@@ -77,7 +77,7 @@ Clone the repository and install the project along with its required dependencie
 
 ```bash
 # Clone the repository
-git clone https://github.com/a2zchambers
+git clone https://github.com/a2zchambers/AgenticSecuritiesResearch.git
 cd AgenticSecuritiesResearch
 
 # Create a virtual environment
